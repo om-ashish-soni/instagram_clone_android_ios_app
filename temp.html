@@ -1,0 +1,7 @@
+<input type="file" onchange="handleChange()" id="inp" />
+<script>
+    const handleChange=()=>{
+        const inp=document.getElementById("inp");
+        console.log(inp.files[0]);
+    }
+</script>

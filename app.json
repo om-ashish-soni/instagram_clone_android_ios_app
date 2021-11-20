@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "instagram-clone",
+    "slug": "instagram-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.om_ashish_soni.instagramclone"
+    }
+  },
+  "name": "instagram-clone"
+}
